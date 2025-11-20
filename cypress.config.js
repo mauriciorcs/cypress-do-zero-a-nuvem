@@ -15,5 +15,6 @@ module.exports = defineConfig({
   viewportHeight: 880,
   viewportWidth: 1280,
   e2e: {},
+  projectId: 'g4pek4',
   // video: true
 })

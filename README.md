@@ -1,7 +1,5 @@
 # Cypress, from Zero to the cloud
 
-<!-- [![main](https://github.com/wlsf82/cy-data-test/actions/workflows/ci.yml/badge.svg)](https://github.com/wlsf82/cy-data-test/actions) -->
-
 Sample project for the "Cypress, from Zero to the cloud" course of the Talking About Testing online school.
 
 ## Pre-requirements
@@ -18,10 +16,6 @@ Run `npm install` (or `npm i` for the short version) to install the dev dependen
 
 In This project, you can run the tests on a desktop or mobile viewport.
 
-<!-- > **Note:** Before running the tests, make a copy of the `cypress.env.example.json` file as `cypress.env.json`, which in the real world, you would update with valid credentials.
->
-> The `cypress.env.json` file is included on [`.gitignore`](./.gitignore) and you're safe that confidential info won't be versioned. -->
-
 ### Desktop
 
 Run `npm test` (or `npm t` for the short version) to run the test in headless mode on a desktop viewport.
@@ -35,5 +29,3 @@ Run npm run test:mobile to run the test in headless mode on a mobile viewport.
 Or, run npm cy:open:mobile to open the Cypress app on mobile viewport.
 
 ___
-
-<!-- This project was created with 💚 by [Walmyr](https://walmyr.dev). -->
